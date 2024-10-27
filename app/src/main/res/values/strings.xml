@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MyDicodingEvent</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="searchbar_hint">Cari Event</string>
+
+    <string name="quotaLeft">0</string>
+    <string name="recommendation_event_for_you">Recommendation Event for you</string>
+    <string name="button_link">Klik untuk Registrasi</string>
+    <string name="sisa_kuota">Sisa kuota:</string>
+    <string name="descr">description</string>
+    <string name="value">value</string>
+    <string name="lokasi">Lokasi:</string>
+    <string name="penyelenggara">Penyelenggara:</string>
+    <string name="kategori">Kategori:</string>
+    <string name="name">Name</string>
+    <string name="waktu_acara">Waktu acara:</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="finished_events">Finished Events</string>
+    <string name="title_setting">Setting\n</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="enable_dark_mode">Enable Dark mode</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="enable_notification">Enable notification</string>
+    <string name="slash">-</string>
+    <string name="todo">TODO</string>
+</resources>
